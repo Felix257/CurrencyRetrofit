@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit2</string>
+    <string name="call_list">call_list</string>
+</resources>
